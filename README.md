@@ -1,12 +1,12 @@
 # [IdeaMarket](https://github.com/xhape/IdeaMarket) on [Heroku](http://heroku.com)
 
-Ghost is a free, open, simple blogging platform. Visit the project's website at <http://ghost.org>, or read the docs on <http://support.ghost.org>.
+IdeaMarket is a free, open, simple idea sharing platform.
 
 ## Deploying on Heroku
 
 To get your IdeaMarket running on Heroku, click the button below:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xhape/ideamarket-heroku/tree/stable)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xhape/ideamarket-heroku/tree/master)
 
 Fill out the form, and you should be cooking with gas in a few seconds.
 
