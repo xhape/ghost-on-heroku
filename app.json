@@ -1,8 +1,8 @@
 {
-  "name": "Ghost on Heroku",
-  "description": "Just a blogging platform",
-  "logo": "https://cdn.rawgit.com/TryGhost/Ghost-Admin/61fe83dff375a145d5272a5382aa2c72bd994830/public/assets/img/large.png",
-  "repository": "https://github.com/cobyism/ghost-on-heroku",
+  "name": "IdeaMarket on Heroku",
+  "description": "Share you ideas",
+  "logo": "https://raw.githubusercontent.com/xhape/static-files/master/ideamarket/images/logo-120x120x.png",
+  "repository": "https://github.com/xhape/ideamarket-heroku",
   "success_url": "/ghost",
   "addons": [
     "heroku-postgresql",
