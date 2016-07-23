@@ -10,8 +10,8 @@
   "private": true,
   "version": "0.8.0",
   "dependencies": {
+    "ideamarket": "git://github.com/xhape/ideamarket.git#stable",
     "ideamarket-theme": "git://github.com/xhape/ideamarket-theme.git",
-    "ideamarket": "git://github.com/xhape/ideamarket.git#609337317500b2bb5a92937024990282a77d1fe7",
     "ghost-s3-storage": "~0.2.2",
     "ncp": "^2.0.0",
     "pg": "latest"
