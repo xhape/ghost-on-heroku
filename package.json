@@ -20,7 +20,7 @@
     "node": "~0.10.0"
   },
   "scripts": {
-    "postinstall": "ncp node_modules/casper content/themes/casper",
+    "postinstall": "ncp node_modules/ideamarket-theme content/themes/casper",
     "start": "node server.js"
   }
 }
