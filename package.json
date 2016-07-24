@@ -20,7 +20,7 @@
     "node": "~0.10.0"
   },
   "scripts": {
-    "postinstall": "ncp node_modules/ideamarket-theme content/themes/ideamarket-theme",
+    "postinstall": "ncp node_modules/ideamarket-theme content/themes/ideamarket-theme && grunt init",
     "start": "node server.js"
   }
 }
