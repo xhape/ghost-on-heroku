@@ -1,5 +1,5 @@
 var path = require('path');
-var ideamarket = require('idearmarket');
+var ideamarket = require('ideamarket');
 
 ideamarket({
   config: path.join(__dirname, 'config.js')
