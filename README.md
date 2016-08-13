@@ -6,7 +6,7 @@ IdeaMarket is a free, open, simple idea sharing platform.
 
 To get your IdeaMarket running on Heroku, click the button below:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xhape/ideamarket-heroku/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xhape/ghost-on-heroku/tree/ideamarket)
 
 Fill out the form, and you should be cooking with gas in a few seconds.
 
