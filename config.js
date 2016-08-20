@@ -62,6 +62,9 @@ config = {
     },
     paths: {
       contentPath: path.join(__dirname, '/content/')
+    },
+	privacy: {
+        useUpdateCheck: false
     }
   },
 
@@ -81,6 +84,9 @@ config = {
     },
     paths: {
       contentPath: path.join(__dirname, '/content/')
+    },
+	privacy: {
+        useUpdateCheck: false
     }
   }
 
