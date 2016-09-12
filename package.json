@@ -8,19 +8,19 @@
   },
   "bugs": "https://github.com/xhape/ideamarket/issues",
   "private": true,
-  "version": "0.9.8",
+  "version": "0.10.1",
   "dependencies": {
     "ideamarket-theme": "xhape/ideamarket-theme.git",
-    "ideamarket": "0.9.8",
-    "ghost-s3-storage": "~0.2.2",
+    "ideamarket": "0.10.1",
+    "ghost-s3-storage": "xhape/ghost-s3-compat",
     "ncp": "^2.0.0",
     "pg": "latest"
   },
   "engines": {
-    "node": "~0.10.0"
+    "node": "^4.2.0"
   },
   "scripts": {
-    "postinstall": "ncp node_modules/ideamarket-theme content/themes/ideamarket-theme && ncp config.example.js content/themes/ideamarket-theme",
+    "postinstall": "ncp node_modules/ideamarket-theme content/themes/ideamarket-theme",
     "start": "node server.js"
   }
 }
