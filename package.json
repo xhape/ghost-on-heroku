@@ -1,6 +1,6 @@
 {
   "name": "ideamarket-heroku",
-  "description": "Share you ideas.",
+  "description": "Deployment script for IdeaMarket to Heroku.",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -10,8 +10,8 @@
   "private": true,
   "version": "0.11.2",
   "dependencies": {
-    "casper": "TryGhost/Casper#1.3.3",
-    "ghost": "0.11.2",
+    "ideamarket-theme": "xhape/ideamarket-theme.git",
+    "ideamarket": "0.11.2",
     "ghost-s3-storage-adapter": "3.0.4",
     "ncp": "^2.0.0",
     "pg": "latest"
