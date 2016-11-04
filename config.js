@@ -1,4 +1,4 @@
-// Ghost Configuration for Heroku
+// IdeaMArker Configuration for Heroku
 
 var path = require('path'),
     config,
