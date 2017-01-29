@@ -4,7 +4,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/xhape/ideamarket-heroku.git"
+    "url": "git://github.com/xhape/ideamarket-on-heroku.git"
   },
   "bugs": "https://github.com/xhape/ideamarket/issues",
   "private": true,

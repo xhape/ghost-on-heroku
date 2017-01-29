@@ -15,15 +15,15 @@
     },
     "EMAIL_SERVICE": {
       "description": "The name of the email service gmail etc",
-      "required": true
+      "required": false
     },
     "EMAIL_LOGIN": {
       "description": "The email username",
-      "required": true
+      "required": false
     },
     "EMAIL_PASSWORD": {
       "description": "The email password",
-      "required": true
+      "required": false
     },
     "PGSSLMODE": {
       "description": "PostgreSQL SSL connection mode. Set to 'require' to force SSL. Unset it to use the default.",
