@@ -1,6 +1,6 @@
 {
-  "name": "IdeaMarket on Heroku",
-  "description": "Share you ideas",
+  "name": "ConferenePH on Heroku",
+  "description": "Events App",
   "logo": "https://raw.githubusercontent.com/xhape/static-files/master/ideamarket/images/Logo/logo-120x120.png",
   "repository": "https://github.com/xhape/ideamarket-heroku",
   "success_url": "/ghost",
