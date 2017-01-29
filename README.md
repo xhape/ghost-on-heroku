@@ -1,12 +1,12 @@
 # [IdeaMarket](https://github.com/xhape/IdeaMarket) on [Heroku](http://heroku.com)
 
-IdeaMarket is a free, open, simple idea sharing platform.
+ConferePH is the number one event app in the Philippines.
 
 ## Deploying on Heroku
 
 To get your IdeaMarket running on Heroku, click the button below:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xhape/ghost-on-heroku/tree/ideamarket-staging)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xhape/ghost-on-heroku/tree/conferenceph)
 
 Fill out the form, and you should be cooking with gas in a few seconds.
 

@@ -1,6 +1,6 @@
 {
-  "name": "ideamarket-heroku",
-  "description": "Deployment script for IdeaMarket to Heroku.",
+  "name": "ConferencePH",
+  "description": "Deployment script for ConferencePH Landing page.",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -8,11 +8,11 @@
   },
   "bugs": "https://github.com/xhape/ideamarket/issues",
   "private": true,
-  "version": "0.11.2",
+  "version": "0.11.4",
   "dependencies": {
-    "ideamarket-theme": "xhape/ideamarket-theme.git",
-    "ideamarket": "0.11.2",
-    "ghost-s3-storage-adapter": "xhape/ghost-s3-storage-adapter",
+    "ghost-scroll-theme": "xhape/GhostScroll.git",
+    "ghost": "0.11.4",
+    "ghost-s3-storage-adapter": "3.0.4",
     "ncp": "^2.0.0",
     "pg": "latest"
   },
@@ -20,7 +20,7 @@
     "node": "^4.2.0"
   },
   "scripts": {
-    "postinstall": "ncp node_modules/ideamarket-theme content/themes/ideamarket-theme",
+    "postinstall": "ncp node_modules/theme content/themes/ghost-scroll-theme",
     "start": "node server.js"
   }
 }
