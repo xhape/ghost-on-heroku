@@ -24,7 +24,7 @@
     "EMAIL_PASSWORD": {
       "description": "The email password",
       "required": true
-    }
+    },
     "PGSSLMODE": {
       "description": "PostgreSQL SSL connection mode. Set to 'require' to force SSL. Unset it to use the default.",
       "required": false,
