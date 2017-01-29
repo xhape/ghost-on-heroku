@@ -1,5 +1,5 @@
 {
-  "name": "ConferencePH",
+  "name": "ConferencePH Heroku",
   "description": "Deployment script for ConferencePH Landing page.",
   "license": "MIT",
   "repository": {
@@ -10,7 +10,7 @@
   "private": true,
   "version": "0.11.4",
   "dependencies": {
-    "conference-theme": "xhape/ConferencePH.git",
+    "conference-theme": "xhape/ConferencePH.git#0.1.1",
     "ghost": "0.11.4",
     "ghost-s3-storage-adapter": "3.0.4",
     "ncp": "^2.0.0",
