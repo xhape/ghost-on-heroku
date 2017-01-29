@@ -20,7 +20,7 @@
     "node": "^4.2.0"
   },
   "scripts": {
-    "postinstall": "ncp node_modules/theme content/themes/ConferencePH",
+    "postinstall": "ncp node_modules/ConferencePH content/themes/ConferencePH",
     "start": "node server.js"
   }
 }
