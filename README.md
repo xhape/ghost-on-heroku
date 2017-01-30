@@ -4,7 +4,7 @@ ThoughtLister is your daily dose of inspiration.
 
 ## Deploying on Heroku
 
-To get your IdeaMarket running on Heroku, click the button below:
+To get ThoughtLister running on Heroku, click the button below:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xhape/ideamarket-on-heroku/tree/thoughtlister)
 
